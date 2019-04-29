@@ -23,6 +23,7 @@
 - 20 years old.
 - Currently studying Pharmacy at Airlangga University.
 - Experienced using smartphone mainly for media social.
+- Participant of CI.
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -32,6 +33,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+- Try to set the video to run 2 times faster.
+- Set the audio delay for 3 mins.
+- Set the subtitle delay for 50 ms.
+- Play the video in audio mode and back to normal after that.
+- Try to jump minute 30 in the video.
+- Try to play the video in the pop up mode and back to normal after that.
+- Try to settings the video to repeat after it ended.
+
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
@@ -43,47 +52,62 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Me**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
  1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Me**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
  1. **Participant**: Baik.
- 1. **You**: Jadi dimulai saja.
+ 1. **Me**: Jadi dimulai saja.
+ 1. **Me**: Coba settings videonya untuk berputar dua kali lebih cepat.
+ 1. **Participant**: _Membuka playback speed settings menu_.
+ 1. **Participant**: _Menekan tombol plus 2 kali_.
+ 1. **Participant**: Oke udah.
+ 1. **Me**: Baik. Gimana menurutmu ?
+ 1. **Participant**: Settingsnya enak yang ini ada logo sama tulisannya jadi lebih jelas, gak kaya kemarin isinya logo aja jadi kaya nebak-nebak gitu. Tapi di bagian playback speed ini posisi tombol plus minusnya menurut saya gak pas karena plus dikanan tapi kalo diklik barnya gerak ke kanan.
+ 1. **Me**: Okee noted.
+ 1. **Me**: Lanjut ya, coba settings videonya agar memiliki delay audio 3 menit.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Membuka audio delay settings menu_.
+ 1. **Participant**: 3 menit udah.
+ 1. **Me**: Okee, gimana tadi ?
+ 1. **Participant**: Bagus menunya aku suka. Ada bermacam pilihan mau naik 10, 50, atau 100 bisa ditambah dan dikurang. Jadi gampang.
+ 1. **Me**: Lanjut lagi, sekarang coba settings delay subtitlenya jadi 50ms.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Membuka subtitle delay settings menu_. 
+ 1. **Participant**: Udah.
+ 1. **Me**: Okeey, gimana tadi ?
+ 1. **Participant**: Sama kaya tadi, mirip kaya audio delay.
+ 1. **Me**: Okee lanjut lagi, coba putar videonya dalam mode audio dan kembalikan seperti semula.
+ 1. **Participant**: Okee. _Membuka settings, menekan bagian audio mode_.
+ 1. **Participant**: _Memasuki mode audio, kemudian menekan tombol kembali_. Sudah kembali seperti semua.
+ 1. **Me**: Okee, sepertinya gak ada kesulitan ya.
+ 1. **Participant**: Iya karena di settingsnya udah ada tulisan yang jelas dan habis di klik videonya langsung memasuki mode audio. Di mode audionya juga gampang ada 4 tombol. 1 tombol berlogo video yang mengindikasikan untuk kembali ke awal.
+ 1. **Me**: Okee jadi lancar ya. Lanjut. Coba bikin videonya menuju menit 30.
+ 1. **Participant**: Baik.
+ 1. **Me**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
  1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Me**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
  1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: _Memasuki Jump To Time menu, menekan tombol :30_.
+ 1. **Participant**: Udah.
+ 1. **Me**: Okee apakah ada kesusahan ?
+ 1. **Participant**: Ada sebenernya. Tadi waktu dibuka menu settingsnya kan ada 2 penambahan waktu, nah bingungnya disana tidak tertulis satuannya apa jadinya itu menambah 30 menit atau 30 second.
+ 1. **Me**: Okee noted. Lanjut ya. Coba settings videonya agar diputar dalam mode pop-up dan kembali ke seperti semula. 
+ 1. **Participant**: _Memasuki mode pop-up_.
+ 1. **Participant**: _Menekan video dan memperbesarkembali_.
+ 1. **Participant**: Okee sudah.
+ 1. **Me**: Kayanya lancar aja ya wkwk.
+ 1. **Participant**: Gampang emang wkwk di menu udah ada tulisannya. Terus waktu mau kembali ke awal ada logo seperti membesar gitu.
+ 1. **Me**: Okee. Terakhir, settings videonya agar setelah selesai akan mutar kembali.
  1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
- 1. **Participant**: Iya sama-sama.
- 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
- 1. **Participant**: Baik.
- 
+ 1. **Participant**: _Membuka settings dan menekan bagian Repeat Mode_.
+ 1. **Participant**: Udah.
+ 1. **Me**: Okee deh. Gimana ?
+ 1. **Participant**: Udah bagus cuma kurang penanda aja apakah bener bener udah ke klik atau belum wkwkw soalnya langsung nutup gitu.
+ 1. **Me**: Okee noted lagi.
+ 1. **Me**: Apakah ada yang ingin disampaikan ?
+ 1. **Participant**: Agak terganggu dengan menu settings yang menghilang setelah beberapa detik. Kalo bisa dibikin lebih lama soalnya belum selesai nyari udah ketutup sendiri.
+ 1. **Me**: Okee terima kasih atas sarannya.
+ 1. **Participant**: Sama-sama.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

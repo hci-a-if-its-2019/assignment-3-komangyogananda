@@ -5,7 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-[![Prototype Video](https://img.youtube.com/vi/IW_tQBkwvVs/0.jpg)](https://youtu.be/IW_tQBkwvVs)
+[!Video for prototype](https://youtu.be/IW_tQBkwvVs)
 
 ---
 
@@ -17,16 +17,12 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
 - A Man.
 - 20 years old.
-- Currenly student of Pharmacy, Airlangga University.
-- Experienced using smartphone mainly for media social purpose.
+- Currently studying Pharmacy at Airlangga University.
+- Experienced using smartphone mainly for media social.
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.

@@ -5,11 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[Video for prototype](https://youtu.be/IW_tQBkwvVs)
 
 ---
 
@@ -21,16 +17,12 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- A Man.
+- 20 years old.
+- Currently studying Pharmacy at Airlangga University.
+- Experienced using smartphone mainly for media social.
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -51,10 +43,47 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Jadi dimulai saja.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 1. **You**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iya sama-sama.
+ 1. **You**: Jadi ini adalah lanjutan dari kegiatan kemarin. Disini anda diminta meninjau kembali prototype hasil buatan saya berdasarkan keluhan-keluhan yang anda berikan pada kegiatan sebelumnya.
+ 1. **Participant**: Baik.
+ 
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.

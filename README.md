@@ -5,11 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](https://img.youtube.com/vi/IW_tQBkwvVs/0.jpg)](https://youtu.be/IW_tQBkwvVs)
 
 ---
 
@@ -27,10 +23,10 @@
 > The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+- A Man.
+- 20 years old.
+- Currenly student of Pharmacy, Airlangga University.
+- Experienced using smartphone mainly for media social purpose.
 
 #### b. Description of Participant 2
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -40,6 +36,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+- Set the video to run 2 times faster and reset back to normal.
+- Set the audio delay for 3 mins and reset back to normal.
+- Play the video in audio mode and back to normal after that.
+- Try to play the video when you want to do something else like doing facebook or etc and back to normal mode.
+- Try to delay the subtitle for 50 ms.
+- Try to jump minute 30 in the video.
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.

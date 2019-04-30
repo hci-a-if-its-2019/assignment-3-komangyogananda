@@ -26,7 +26,10 @@
 - Participant of CI.
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- A Man.
+- 20 years old.
+- Currently studying Geomatics Engineering at Institut Teknologi Sepuluh Nopember.
+- Experienced using smartphone for chatting.
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
@@ -106,14 +109,64 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  1. **Me**: Okee noted lagi.
  1. **Me**: Apakah ada yang ingin disampaikan ?
  1. **Participant**: Agak terganggu dengan menu settings yang menghilang setelah beberapa detik. Kalo bisa dibikin lebih lama soalnya belum selesai nyari udah ketutup sendiri.
+ 1. **Participant**: Sama menurutku mending buat diatas untuk settingsnya, kalo disamping agak susah scroll terus kecil juga. Saran aja sih wkwk.
  1. **Me**: Okee terima kasih atas sarannya.
  1. **Participant**: Sama-sama.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **Me**: Halo. Terima kasih telah meluangkan waktu.
+ 1. **Participant**: Iys.
+ 1. **Me**: Jadi sebelum mulai, di depan anda ini adalah prototype aplikasi VLC untuk android. Jadi nanti aplikasinya ga bakal jalan seperti aplikasi sesungguhnya dan cuma menampilkan tampilannya saja.
+ 1. **Participant**: Okee.
+ 1. **Me**: Jadi nanti aku bakal ngasi beberapa test untuk dilakukan, tapi santai aja ini untuk bahan evaluasi.
+ 1. **Participant**: Okee.
+ 1. **Me**: Dimulai aja ya, pertama coba settings videonya menjadi 2 kali lebih cepat.
+ 1. **Participant**: _Memasuki playback settings menu_.
+ 1. **Participant**: Ini gak gerak.
+ 1. **Me**: Iya karena ini prototype jadi hanya berupa tampilan.
+ 1. **Participant**: Okee udah berarti.
+ 1. **Me**: Okee. Gimana ?
+ 1. **Participant**: Gampang sih nyarinya, gak ada kesusahan. Tampilannya bagus.
+ 1. **Me**: Lanjut ya, coba set delay audionya menjadi 3 menit.
+ 1. **Participant**: _Masuk ke subtitle settings menu_
+ 1. **Participant**: _Menyadari salah dan masuk ke audio delay settings_.
+ 1. **Participant**: Udah.
+ 1. **Me**: Okee. Tadi kayanya sempet salah wkwk. Itu kenapa ?
+ 1. **Participant**: Wkwkw iya. Enggak kenapa sih, tergesa-gesa aja aku jadinya salah klik wkwk.
+ 1. **Me**: Okeedeh. Santai aja ini gak diapa-apain kok wkwk.
+ 1. **Me**: Lanjut ya. Settings delay subtitle videonya menjadi 50ms.
+ 1. **Participant**: Udah.
+ 1. **Me**: Okee bener. Gimana tadi ?
+ 1. **Participant**: Logonya kurang nyambung sih menurutku tapi untung ada tulisannya.
+ 1. **Me**: Okee. Lanjut ya. Coba puter videonya menjadi mode audio dan kembali ke normal lagi.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Menekan audio mode pada settings_.
+ 1. **Participant**: _Memasuki mode audio dan menekan tombol kembali_.
+ 1. **Participant**: Udah.
+ 1. **Me**: Gimana apakah ada kesusahan ?
+ 1. **Participant**: Gampang sih, jelas tombolnya.
+ 1. **Me**: Okeey lanjut lagi. Coba lompat menuju menit 30 dalam video.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Memasuki menu jump to time_.
+ 1. **Participant**: Udah.
+ 1. **Me**: Lancar aja ya sepertinya.
+ 1. **Participant**: Iya gak ada kesusahan.
+ 1. **Me**: Okee lanjut ya. Coba puter videonya dalam pop up mode dan kembali ke awal.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Menekan pop-up mode pada menu settings_.
+ 1. **Participant**: _Memasuki mode pop-up dan menekan berhasil kembali_.
+ 1. **Me**: Gimana lancar aja sepertinya ?
+ 1. **Participant**: Iya gampang udah jelas terlihat di settingnya.
+ 1. **Me**: Okee. Terakhir coba settings videonya supaya kembali muter setelah selesai.
+ 1. **Participant**: Okee.
+ 1. **Participant**: _Menekan repeat-mode settings_.
+ 1. **Participant**: Gitu ya ?.
+ 1. **Me**: Iyaa udah bener. Sudah selesai.
+ 1. **Me**: Gimana apakah ada yang ingin disampaikan ?
+ 1. **Participant**: Kalo tampilannya settingsnya ditaruh diatas gimana ? Soalnya menurutku disamping agak susah scorllnya terus kecil juga.
+ 1. **Me**: Kalo diatas nanti jadi scroll kesamping gitu ?.
+ 1. **Participant**: Iyaa lebih enak menurutku diatas trus scrollnya kesamping.
+ 1. **Me**: Okee terima kasih atas masukkannya.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.

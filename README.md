@@ -106,7 +106,7 @@
  1. **Participant**: Udah.
  1. **Me**: Okee deh. Gimana ?
  1. **Participant**: Udah bagus cuma kurang penanda aja apakah bener bener udah ke klik atau belum wkwkw soalnya langsung nutup gitu.
- 1. **Me**: Okee noted lagi.
+ 1. **Me**: Itu tandanya ada dibawah settingnya nanti.
  1. **Me**: Apakah ada yang ingin disampaikan ?
  1. **Participant**: Agak terganggu dengan menu settings yang menghilang setelah beberapa detik. Kalo bisa dibikin lebih lama soalnya belum selesai nyari udah ketutup sendiri.
  1. **Participant**: Sama menurutku mending buat diatas untuk settingsnya, kalo disamping agak susah scroll terus kecil juga. Saran aja sih wkwk.
@@ -202,7 +202,7 @@
     - Make the settings block bigger.
  
 #### OBSERVATION 3
-![Prototype Screen 3](img/observation3.png)
+![Observation 3](img/observation3.png)
 
  - **Reference**:
     - [P1#54] : Agak terganggu dengan menu settings yang menghilang setelah beberapa detik. Kalo bisa dibikin lebih lama soalnya belum selesai nyari udah ketutup sendiri.
@@ -216,23 +216,38 @@
     - Remove the auto hide timer.
 
  #### OBSERVATION 4
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Observation 4](img/observation4.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**: 
+    - [P1#11] : Settingsnya enak yang ini ada logo sama tulisannya jadi lebih jelas, gak kaya kemarin isinya logo aja jadi kaya nebak-nebak gitu.
+    - [P2#13] : Gampang sih nyarinya, gak ada kesusahan. Tampilannya bagus.
+ - **Feedback**: The settings interface is good and easy to use.
+ - **Incidence**: None
+ - **Reason**: None
+ - **Resolution**: None
 
  #### OBSERVATION 5
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Observation 5](img/observation5.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
+ - **Reference**: 
+    - [P1#18] : Bagus menunya aku suka. Ada bermacam pilihan mau naik 10, 50, atau 100 bisa ditambah dan dikurang. Jadi gampang.
+ - **Feedback**: The audio delay setting menu is very useful. There are multiple increment and decrement value that help users.
+ - **Incidence**: None 
+ - **Reason**: None
+ - **Resolution**: None
+
+ #### OBSERVATION 6
+![Observation 6](img/observation6.png)
+
+ - **Reference**: 
+    - [P1#39] : Ada sebenernya. Tadi waktu dibuka menu settingsnya kan ada 2 penambahan waktu, nah bingungnya disana tidak tertulis satuannya apa jadinya itu menambah 30 menit atau 30 second.
+ - **Feedback**: The user missunderstand about the input value of the settings form.
+ - **Incidence**:
+    - [P1#39] : The user thought that the input value was number of minutes to jump forward rather than the timestamp the user want to go (can be forward or backward with current time). 
+ - **Reason**: There is no explanation in the default form value.
+ - **Resolution**: 
+    - Put 00:00:00 as default value in the form.
+
  ---
 
 ## Part B: Prototyping (again)

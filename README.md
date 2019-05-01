@@ -1,8 +1,28 @@
+# Table of Contents
+
+- [Usability Evaluation and Prototyping (again)](#usability-evaluation-and-prototyping--again-)
+  * [Operating the Prototype](#operating-the-prototype)
+  * [Part A: Usability Evaluation](#part-a--usability-evaluation)
+    + [1. Brief Description of Participants](#1-brief-description-of-participants)
+      - [a. Description of Participant 1](#a-description-of-participant-1)
+      - [b. Description of Participant 2](#b-description-of-participant-2)
+    + [2. Evaluation Script](#2-evaluation-script)
+    + [3. Transcript](#3-transcript)
+      - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+      - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+    + [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+      - [Observation 1](#observation-1)
+      - [Observation 2](#observation-2)
+      - [Observation 3](#observation-3)
+      - [Observation 4](#observation-4)
+      - [Observation 5](#observation-5)
+      - [Observation 6](#observation-6)
+  * [Part B: Prototyping (again)](#part-b--prototyping--again-)
+    + [Sketch](#sketch)
+    + [Design Rationale](#design-rationale)
+    + [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
+
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
 [Video for prototype](https://youtu.be/IW_tQBkwvVs)
@@ -10,11 +30,6 @@
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
 
@@ -32,10 +47,6 @@
 - Experienced using smartphone for chatting.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
 - Try to set the video to run 2 times faster.
 - Set the audio delay for 3 mins.
 - Set the subtitle delay for 50 ms.
@@ -46,13 +57,6 @@
 
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
  1. **Me**: Halo, ketemu lagi. Terima kasih telah meluangkan waktu.
@@ -169,7 +173,6 @@
  1. **Me**: Okee terima kasih atas masukkannya.
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
 ![Observation 1 screen](img/observation1.png)
@@ -251,20 +254,19 @@
  ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+   - Resolution for observation 1.
+   ![Observation 1 Sketch](img/observ1sketch.jpg)
+   - Resolution for observation 2.
+   ![Observation 1 Sketch](img/observ2sketch.jpg)
+   - Resolution for observation 6.
+   ![Observation 1 Sketch](img/observ6sketch.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+Check out the latest High-Fidelity Interactive-Prototype [in this link](https://xd.adobe.com/view/14acfc97-e553-4f9e-7bd0-aad21a73f600-629d/)

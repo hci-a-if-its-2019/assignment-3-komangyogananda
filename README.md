@@ -265,8 +265,7 @@
    ![Observation 1 Sketch](img/observ6sketch.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+What I have learnt from the usability evaluation is our perspective (expert users) are quite differents from the actual users (novice or moderate users). I thought my resolution for the users problem from previous CI was the best for the users. However, after doing the usability evaluation I realize it was not. We cannot force our mindset to be the best solution for their problems. The way we know what is the best for the users is by doing some research on them with various type of users.   
 
 ### High-Fidelity Interactive-Prototype
 Check out the latest High-Fidelity Interactive-Prototype [in this link](https://xd.adobe.com/view/14acfc97-e553-4f9e-7bd0-aad21a73f600-629d/)

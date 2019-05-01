@@ -172,24 +172,50 @@
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Observation 1 screen](img/observation1.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**:   
+    - [P1#11] : Tapi di bagian playback speed ini posisi tombol plus minusnya menurut saya gak pas karena plus dikanan tapi kalo diklik barnya gerak ke kanan."
+ - **Feedback**: 
+    - [P1] : The plus button is located at left but the bar move to the right when the plus button is pressed.
+ - **Incidence**:  
+    - [P1#11] : Makes user confuse.
+ - **Reason**:  
+    - [P1#11] : The position of plus and minus button is flip over.
+ - **Resolution**: 
+    - Change the location of plus button and minus button. Plus button on the right and minus button on the left.
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Observation 2 screen](img/observation2.png)
 
  - **Reference**: 
- - **Feedback**: 
+    - [P1#55] : Sama menurutku mending buat diatas untuk settingsnya, kalo disamping agak susah scroll terus kecil juga. Saran aja sih wkwk.
+    - [P2#50] : Kalo tampilannya settingsnya ditaruh diatas gimana ? Soalnya menurutku disamping agak susah scorllnya terus kecil juga.
+ - **Feedback**:
+    - [P1 & P2] : The settings is rather small and hard to scroll if they are located in the left.
  - **Incidence**: 
+    - [P1 & P2] : Participant telling their difficulties throughout the evaluation process.
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+    - [P1 & P2] : Because the location of the settings bar makes it hard to scroll and smaller than usual.
+ - **Resolution**:
+    - Move out the position of the settings bar from left to the top of the screen.
+    - Make the settings block bigger.
  
 #### OBSERVATION 3
+![Prototype Screen 3](img/observation3.png)
+
+ - **Reference**:
+    - [P1#54] : Agak terganggu dengan menu settings yang menghilang setelah beberapa detik. Kalo bisa dibikin lebih lama soalnya belum selesai nyari udah ketutup sendiri.
+ - **Feedback**: 
+    - [P1] : The auto hide for settings bar too fast for novice user. The user not yet find their settings but the bar begins disappear.
+ - **Incidence**: 
+    - [P1#54] : Participant telling their difficulties throughout the evaluation process.
+ - **Reason**: 
+    - [P1] : The auto hide for settings bar too fast for novice user. The user not yet find their settings but the bar begins disappear.
+ - **Resolution**:
+    - Remove the auto hide timer.
+
+ #### OBSERVATION 4
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
 
  - **Reference**:  
@@ -197,8 +223,15 @@
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
+
+ #### OBSERVATION 5
+![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+
+ - **Reference**:  
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
  
  ---
 
